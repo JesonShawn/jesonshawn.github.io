@@ -11,10 +11,10 @@ I am passionate about exploring new tools and technologies, having 5+ years of e
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="html" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="html" width="60" height="40"/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' alt="linux" width="40" height="40">
-  <img src='https://avatars.githubusercontent.com/u/320565?s=200&v=4' height='40' width='40' alt="js">
+  <img src='https://avatars.githubusercontent.com/u/320565?s=200&v=4' height='35' width='40' alt="js">
    <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg' height='40' width='40' alt="js">
-  <img src='https://www.jenkins.io/images/logos/jenkins/jenkins.svg' height='40' width='40' alt="jenkins">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" alt="splunk" width="70" height="35"/>
+  <img src='https://www.jenkins.io/images/logos/jenkins/jenkins.svg' height='40' width='35' alt="jenkins">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" alt="splunk" width="100" height="32"/>
 </p>
 
 ---
@@ -34,13 +34,23 @@ Worked as part of Generic Signing team to develop and automate tasks for GSM sol
 ### **SYSTEMS ENGINEER**
 ### Infosys limited
 
-Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build and eployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms post migration. Worked on POC to develop Java web application and REST API's using Spring boot.
+Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build and eployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms. Worked on POC to develop Java web application and REST API's using Spring boot.
 
 ---
+### **SKILLS**
+
+Language:&nbsp; Java, Groovy, Shell, Power-shell<BR>
+Database:&nbsp; Oracle, SQL Server<BR>
+Platforms:&nbsp; Docker, vCloud<BR>
+Frameworks:&nbsp; JSP, SQL, Hibernate, Spring Boot<BR>
+Test Automation:&nbsp; Karate (Cucumber), AppScan, JMeter<BR>
+DevOps Tools:&nbsp; Git, JIRA, Jenkins, Maven, Nexus, Antifactory, SonarQube, UCD, Splunk<BR>
+  
+---  
 
 ## Education
 
-### **NMAM Instittute of Technology**
+### **NMAM Institute of Technology, NITTE**
 ### BTech Computer Science (2012- 2016)
 GPA 8.53
 
