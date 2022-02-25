@@ -1,8 +1,9 @@
 ## Portfolio
 
-I am passionate about exploring new tools and technologies, having 5+ years of expertise in Java
-DevOps and Test Automation.
-Domain: Banking and Financial services.
+I am passionate about exploring new tools and technologies, having 5+ years of expertise in
+## Java, DevOps and Test Automation.
+
+
 ---
 
 ## Skills
