@@ -9,10 +9,12 @@ I am passionate about exploring new tools and technologies, having 5+ years of e
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' alt="css" width="40" height="40">
-  <img src="https://github.com/JesonShawn/jesonshawn.github.io/blob/main/devops.PNG" alt="react" width="60" height="40"/>
-  <img src='https://github.com/JesonShawn/jesonshawn.github.io/blob/main/cucumber.PNG' height='45' width='40' alt="js">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="html" width="60" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' alt="linux" width="40" height="40">
+  <img src='https://avatars.githubusercontent.com/u/320565?s=200&v=4' height='40' width='40' alt="js">
+   <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg' height='40' width='40' alt="js">
+  <img src='https://www.jenkins.io/images/logos/jenkins/jenkins.svg' height='40' width='40' alt="jenkins">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" alt="splunk" width="70" height="35"/>
 </p>
 
 ---
@@ -22,29 +24,35 @@ I am passionate about exploring new tools and technologies, having 5+ years of e
 ### **SOFTWARE ENGINEER: QUALITY ASSURANCE**
 ### OPENTEXT CORPORATION
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+QA Engineer for Documentum® content server product R&D, Worked in Agile SCRUM team and performed end to end validation of CS product. I worked on installation and verification of CS builds on Windows,Docker and Linux flovours. Validated hotfix, patch and updates based on customer requirement.
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **SENIOR SYSTEMS ENGINEER**
+### Infosys limited
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+Worked as part of Generic Signing team to develop and automate tasks for GSM solution which handles millions of transactions. I worked on setting up functional test automation suite and performace testing of REST API's. Integrated automation suite with CI/CD pipeline. Designed splunk dashboard with real time alerting.
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+### **SYSTEMS ENGINEER**
+### Infosys limited
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build, release and Deployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms post migration. Scripted for automated installtion. Worked on POC to develop Java web application and REST API's using Spring boot.
 
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
+### **NMAM Instittute of Technology**
 ### BTech Computer Science (2012- 2016)
-GPA 8.75
+GPA 8.53
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a Softare Engineer, I like to develop value based compact solutions so as to eliminate repetitive tasks.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors and love to play football. I love exploring new things and cultures. When I am inside, I sing in my free time.
+
+“All you need in this life is ignorance and confidence, and then success is sure.”
+– Mark Twain
+
+  
+  
