@@ -1,27 +1,26 @@
 ## Portfolio
 
-I am passionate about exploring new tools and technologies, having 5+ years of expertise in
-## Java, DevOps and Test Automation.
+I am passionate about exploring new tools and technologies, having 5+ years of expertise in <B>Java, DevOps and Test Automation.
 
-
+  
 ---
 
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' alt="css" width="40" height="40">
+  <img src="https://github.com/JesonShawn/jesonshawn.github.io/blob/main/devops.PNG" alt="react" width="60" height="40"/>
+  <img src='https://github.com/JesonShawn/jesonshawn.github.io/blob/main/cucumber.PNG' height='45' width='40' alt="js">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
 
 ---
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **SOFTWARE ENGINEER: QUALITY ASSURANCE**
+### OPENTEXT CORPORATION
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
