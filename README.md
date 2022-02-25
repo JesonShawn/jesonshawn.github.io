@@ -37,7 +37,7 @@ Worked as part of Generic Signing team to develop and automate tasks for GSM sol
 Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build and eployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms. Worked on POC to develop Java web application and REST API's using Spring boot.
 
 ---
-### **SKILLS**
+### **TECH STACK**
 
 Language:&nbsp; Java, Groovy, Shell, Power-shell<BR>
 Database:&nbsp; Oracle, SQL Server<BR>
