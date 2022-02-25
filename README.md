@@ -1,7 +1,8 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
-
+I am passionate about exploring new tools and technologies, having 5+ years of expertise in Java
+DevOps and Test Automation.
+Domain: Banking and Financial services.
 ---
 
 ## Skills
