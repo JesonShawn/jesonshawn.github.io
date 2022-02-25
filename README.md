@@ -29,12 +29,12 @@ QA Engineer for Documentum® content server product R&D, Worked in Agile SCRUM t
 ### **SENIOR SYSTEMS ENGINEER**
 ### Infosys limited
 
-Worked as part of Generic Signing team to develop and automate tasks for GSM solution which handles millions of transactions. I worked on setting up functional test automation suite and performace testing of REST API's. Integrated automation suite with CI/CD pipeline. Designed splunk dashboard with real time alerting.
+Worked as part of Generic Signing team to develop and automate tasks for GSM solution which handles millions of transactions.I worked on setting up functional test automation suite and performace testing of REST API's. Integrated automation suite with CI/CD pipeline. Designed splunk dashboard with real time alerting.
 
 ### **SYSTEMS ENGINEER**
 ### Infosys limited
 
-Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build, release and Deployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms post migration. Scripted for automated installtion. Worked on POC to develop Java web application and REST API's using Spring boot.
+Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build and eployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms post migration. Worked on POC to develop Java web application and REST API's using Spring boot.
 
 ---
 
@@ -51,7 +51,7 @@ Apart from being a Softare Engineer, I like to develop value based compact solut
 
 I enjoy being outdoors and love to play football. I love exploring new things and cultures. When I am inside, I sing in my free time.
 
-“All you need in this life is ignorance and confidence, and then success is sure.”
+“All you need in this life is ignorance and confidence, and then success is sure.”<BR>
 – Mark Twain
 
   
