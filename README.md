@@ -9,12 +9,12 @@ I am passionate about exploring new tools and technologies, having 5+ years of e
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="html" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="html" width="60" height="40"/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' alt="linux" width="40" height="40">
-  <img src='https://avatars.githubusercontent.com/u/320565?s=200&v=4' height='35' width='40' alt="js">
-   <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg' height='40' width='40' alt="js">
-  <img src='https://www.jenkins.io/images/logos/jenkins/jenkins.svg' height='40' width='35' alt="jenkins">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" alt="splunk" width="100" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="html" width="50" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg' alt="linux" width="30" height="30">
+  <img src='https://avatars.githubusercontent.com/u/320565?s=200&v=4' height='30' width='35' alt="js">
+   <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg' height='30' width='40' alt="js">
+  <img src='https://www.jenkins.io/images/logos/jenkins/jenkins.svg' height='30' width='35' alt="jenkins">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" alt="splunk" width="80" height="20"/>
 </p>
 
 ---
