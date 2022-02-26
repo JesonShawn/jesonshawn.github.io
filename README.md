@@ -58,7 +58,7 @@ GPA 8.53
 
 ### INTERESTS
 Apart from being a Softare Engineer, I like to develop value based compact solutions to eliminate time consuming tasks.
-I like present my ideas, why and how the solution would benefit teams.
+I like presenting my ideas, why and how the solution would benefit teams.
 
 I enjoy being outdoors and love to play football. I love exploring new things and cultures. When I am inside, I sing in my free time.
 
