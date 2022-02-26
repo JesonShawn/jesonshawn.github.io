@@ -2,8 +2,8 @@ title: Jeson S Saldanha # your name (or website title) here
 logo: "/profileCircle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  &emsp <a href="mailto:shwnsaldanha@gmail.com">shwnsaldanha@gmail.com</a>
+   <a href="mailto:shwnsaldanha@gmail.com">shwnsaldanha@gmail.com</a>
   <br>
-  &emsp<a href="https://www.linkedin.com/in/i-am-shawn">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/i-am-shawn">LinkedIn Profile</a>
   <br>
 theme: jekyll-theme-minimal
