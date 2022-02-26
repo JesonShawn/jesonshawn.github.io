@@ -24,7 +24,7 @@ I am passionate about exploring new tools and technologies, having 5+ years of e
 ### **SOFTWARE ENGINEER: QUALITY ASSURANCE**
 ### OPENTEXT CORPORATION
 
-QA Engineer for Documentum® content server product R&D, Worked in Agile SCRUM team and performed end to end validation of CS product. I worked on installation and verification of CS builds on Windows,Docker and Linux flovours. Validated hotfix, patch and updates based on customer requirement.
+QA Engineer for Documentum® content server product R&D, Worked in Agile SCRUM team and performed end to end validation of CS product. I worked on installation and verification of CS builds on Windows,Docker and Linux flavours. Validated hotfix, patch and updates based on customer requirement.
 
 ### **SENIOR SYSTEMS ENGINEER**
 ### Infosys limited
@@ -34,7 +34,7 @@ Worked as part of Generic Signing team to develop and automate tasks for GSM sol
 ### **SYSTEMS ENGINEER**
 ### Infosys limited
 
-Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build and eployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms. Worked on POC to develop Java web application and REST API's using Spring boot.
+Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build and deployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms. Worked on POC to develop Java web application and REST API's using Spring boot.
 
 ---
 ### **TECH STACK**
@@ -57,7 +57,8 @@ GPA 8.53
 ---
 
 ### INTERESTS
-Apart from being a Softare Engineer, I like to develop value based compact solutions so as to eliminate repetitive tasks.
+Apart from being a Softare Engineer, I like to develop value based compact solutions to eliminate time consuming tasks.
+I like present my ideas, why and how the solution would benefit teams.
 
 I enjoy being outdoors and love to play football. I love exploring new things and cultures. When I am inside, I sing in my free time.
 
