@@ -20,6 +20,11 @@ I am passionate about exploring new tools and technologies, having 5+ years of e
 ---
 
 ## Experience
+  
+### **SENIOR MEMBER OF TECHNICAL STAFF**
+### ORACLE CORPORATION
+
+Full stack developer for Oracle Hyperion product. I worked on enhancing REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit. 
 
 ### **SOFTWARE ENGINEER: QUALITY ASSURANCE**
 ### OPENTEXT CORPORATION
@@ -42,8 +47,8 @@ Worked as part of migration team to migrate applications and products to Private
 Language:&nbsp; Java, Groovy, Shell, Power-shell<BR>
 Database:&nbsp; Oracle, SQL Server<BR>
 Platforms:&nbsp; Docker, vCloud<BR>
-Frameworks:&nbsp; JSP, SQL, Hibernate, Spring Boot<BR>
-Test Automation:&nbsp; Karate (Cucumber), AppScan, JMeter<BR>
+Frameworks:&nbsp; JSP, JET, SQL, Hibernate, Spring Boot<BR>
+Test Automation:&nbsp; JUnit, QUnit, Karate (Cucumber), Selenium WebDriver(Basic), JMeter<BR>
 DevOps Tools:&nbsp; Git, JIRA, Jenkins, Maven, Nexus, Antifactory, SonarQube, UCD, Splunk<BR>
   
 ---  
