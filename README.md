@@ -24,7 +24,7 @@ I am passionate about exploring new tools and technologies, having 5+ years of e
 ### **SENIOR SOFTWARE ENGINEER (SENIOR MEMBER OF TECHNICAL STAFF)**
 ### ORACLE CORPORATION
 
-Full stack developer for Oracle Hyperion product. I worked on enhancing REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit. 
+Full stack developer for Oracle Hyperion product. I worked on enhancing REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Implemented Enterprise PBCS enhancements using Core Java. Worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit.  
 
 ### **SOFTWARE ENGINEER: QUALITY ASSURANCE**
 ### OPENTEXT CORPORATION
