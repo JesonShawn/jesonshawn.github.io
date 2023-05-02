@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am passionate about exploring new tools and technologies, having 5+ years of expertise in <B>Java, DevOps and Test Automation.
+I am passionate about exploring new tools and technologies, having 6+ years of expertise in <B>Java, DevOps and Test Automation.
 
   
 ---
@@ -21,10 +21,10 @@ I am passionate about exploring new tools and technologies, having 5+ years of e
 
 ## Experience
   
-### **SENIOR SOFTWARE ENGINEER (SENIOR MEMBER OF TECHNICAL STAFF)**
+### **SENIOR MEMBER TECHNICAL STAFF (SENIOR SOFTWARE ENGINEER)**
 ### ORACLE CORPORATION
 
-Full stack developer for Oracle Hyperion product. I worked on enhancing REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Implemented Enterprise PBCS enhancements using Core Java. Worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit.  
+Full stack developer for Oracle Hyperion product. I worked on developing backend processing functionality for application upgrade delta using Java and ADF. Implemented  dynamic language support for enterprise platform.I worked on enhancing REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Implemented Enterprise PBCS enhancements and worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit.  
 
 ### **SOFTWARE ENGINEER: QUALITY ASSURANCE**
 ### OPENTEXT CORPORATION
@@ -44,7 +44,7 @@ Worked as part of migration team to migrate applications and products to Private
 ---
 ### **TECH STACK**
 
-Language:&nbsp; Java, Groovy, Shell, Power-shell<BR>
+Language:&nbsp; Java, J2EE, Groovy, Shell, Power-shell<BR>
 Database:&nbsp; Oracle, SQL Server<BR>
 Platforms:&nbsp; Docker, vCloud<BR>
 Frameworks:&nbsp; JSP, JET, SQL, Hibernate, Spring Boot<BR>
