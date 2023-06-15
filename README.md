@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am passionate about exploring new tools and technologies, having 6+ years of expertise in <B>Java, J2EE, DevOps and Test Automation.
+I am passionate about exploring new tools and technologies, having 6+ years of expertise in <B>Java, J2EE, DevOps and Test Automation. 
 
   
 ---
