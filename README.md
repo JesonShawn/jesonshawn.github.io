@@ -55,8 +55,8 @@ DevOps Tools:&nbsp; Git, JIRA, Jenkins, Maven, Nexus, Antifactory, SonarQube, UC
 
 ## Education
 
+### Bachelor of Engineering, Computer Science (2012- 2016)
 ### **NMAM Institute of Technology, NITTE**
-### BTech Computer Science (2012- 2016)
 GPA 8.53
 
 ---  
