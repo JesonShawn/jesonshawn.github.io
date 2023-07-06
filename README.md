@@ -67,7 +67,7 @@ Developed new application upgrade system that revolutionized the upgrade process
 
 ---
 
-### INTERESTS
+## INTERESTS
 Apart from being a Software Engineer, I like to develop value based compact solutions to eliminate time consuming tasks.
 I like presenting my ideas, why and how the solution would benefit teams.
 
