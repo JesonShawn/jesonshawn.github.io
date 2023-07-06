@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am passionate about exploring new tools and technologies, having 6+ years of expertise in <B>Java, J2EE, DevOps and Test Automation. 
+I am passionate about exploring new tools and technologies, having 6+ years of expertise in <B>Java, J2EE, HTML, CSS, DevOps and Test Automation. 
 
   
 ---
@@ -24,7 +24,7 @@ I am passionate about exploring new tools and technologies, having 6+ years of e
 ### **SENIOR MEMBER TECHNICAL STAFF (SENIOR SOFTWARE ENGINEER)**
 ### ORACLE CORPORATION
 
-Full stack developer for Oracle Hyperion product. I worked on developing backend processing functionality for application upgrade delta using Java and ADF. Implemented  dynamic language support for enterprise platform. I worked on enhancing REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Implemented Enterprise PBCS enhancements and worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit.  
+Full stack developer for Oracle Hyperion product. I worked on developing backend processing functionality for application upgrade delta using Java and ADF. Implemented dynamic language support for enterprise platform. I worked on enhancing REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Drove full stack development of Enterprise PBCS enhancements and worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit.
 
 ### **SOFTWARE ENGINEER: QUALITY ASSURANCE**
 ### OPENTEXT CORPORATION
@@ -34,7 +34,7 @@ QA Engineer for Documentum® content server product R&D, Worked in Agile SCRUM t
 ### **SENIOR SYSTEMS ENGINEER**
 ### Infosys limited
 
-Worked as part of Generic Signing team to develop and automate tasks for GSM solution which handles millions of transactions.I worked on setting up functional test automation suite and performace testing of REST API's. Integrated automation suite with CI/CD pipeline. Designed splunk dashboard with real time alerting.
+Worked as part of Agile devops team to develop and automate tasks for financial signing solution which handles millions of transactions.I worked on setting up functional test automation suite and performace testing of REST API's. Integrated automation suite with CI/CD pipeline. Designed splunk dashboard with real time alerting.
 
 ### **SYSTEMS ENGINEER**
 ### Infosys limited
@@ -42,12 +42,12 @@ Worked as part of Generic Signing team to develop and automate tasks for GSM sol
 Worked as part of migration team to migrate applications and products to Private Cloud. Setup CI/CD pipelines for build and deployment using Jenkins and IBM UCD. Deployed and verfied on Linux and Windows platforms. Worked on POC to develop Java web application and REST API's using Spring boot.
 
 ---
-### **TECH STACK**
+## **TECH STACK**
 
-Language:&nbsp; Java, J2EE, Groovy, Shell, Power-shell<BR>
+Language:&nbsp; Java, J2EE, Shell, Power-shell<BR>
 Database:&nbsp; Oracle, SQL Server<BR>
 Platforms:&nbsp; Docker, vCloud<BR>
-Frameworks:&nbsp; JSP, JET, SQL, Hibernate, Spring Boot<BR>
+Frameworks:&nbsp; HTML, CSS, JSP, JavaScript toolkit, SQL, Hibernate, Spring Boot<BR>
 Test Automation:&nbsp; JUnit, QUnit, Karate (Cucumber), Selenium WebDriver(Basic), JMeter<BR>
 DevOps Tools:&nbsp; Git, JIRA, Jenkins, Maven, Nexus, Antifactory, SonarQube, UCD, Splunk<BR>
   
@@ -58,6 +58,12 @@ DevOps Tools:&nbsp; Git, JIRA, Jenkins, Maven, Nexus, Antifactory, SonarQube, UC
 ### **NMAM Institute of Technology, NITTE**
 ### BTech Computer Science (2012- 2016)
 GPA 8.53
+
+---  
+
+## ACHIEVEMENTS
+
+Developed new application upgrade system that revolutionized the upgrade process and achieved an impressive **80% reduction** in upgrade time and significantly minimized the impact on customers.
 
 ---
 
