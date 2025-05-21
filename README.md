@@ -1,6 +1,7 @@
 ## Portfolio
 
-I am passionate about exploring new tools and technologies, having 6+ years of expertise in <B>Java, J2EE, HTML, CSS, DevOps and Test Automation. 
+I am passionate about exploring new tools and technologies, having 8+ years of expertise in <B>Java, J2EE, HTML, CSS, DevOps and Test Automation. 
+Proficient in building scalable backend systems and contributing to front-end development when required.
 
   
 ---
@@ -24,7 +25,7 @@ I am passionate about exploring new tools and technologies, having 6+ years of e
 ### **SENIOR MEMBER TECHNICAL STAFF (SENIOR SOFTWARE ENGINEER)**
 ### ORACLE CORPORATION
 
-Full stack developer for Oracle Hyperion product. I worked on developing backend processing functionality for application upgrade delta using Java and ADF. Implemented dynamic language support for enterprise platform. I worked on enhancing REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Drove full stack development of Enterprise PBCS enhancements and worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit.
+Full stack developer for Oracle Hyperion product. Designed and developed application diagnostic feature framework. Developed backend processing functionality for application upgrade using Java and ADF. Implemented dynamic language support for enterprise platform. Enhanced REST API's for Intelligent Performance Management(IPM) module. Developed UI components using Oracle JET/Visual Builder. Drove full stack development of Enterprise PBCS enhancements and worked on POC's to build UI modules and automated using Selenium Webdriver and QUnit.
 
 ### **SOFTWARE ENGINEER: QUALITY ASSURANCE**
 ### OPENTEXT CORPORATION
@@ -47,7 +48,7 @@ Worked as part of migration team to migrate applications and products to Private
 Language:&nbsp; Java, J2EE, Shell, Power-shell<BR>
 Database:&nbsp; Oracle, SQL Server<BR>
 Platforms:&nbsp; Docker, vCloud<BR>
-Frameworks:&nbsp; HTML, CSS, JSP, JavaScript toolkit, SQL, Hibernate, Spring Boot<BR>
+Frameworks/Technology:&nbsp; HTML, CSS, JSP, JavaScript toolkit, SQL, Hibernate, Spring Boot, Multithreading, Collections<BR>
 Test Automation:&nbsp; JUnit, QUnit, Karate (Cucumber), Selenium WebDriver(Basic), JMeter<BR>
 DevOps Tools:&nbsp; Git, JIRA, Jenkins, Maven, Nexus, Antifactory, SonarQube, UCD, Splunk<BR>
   
