@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am passionate about exploring new tools and technologies, having 8+ years of expertise in <B>Java, J2EE, HTML, CSS, DevOps and Test Automation. 
+I am passionate about exploring new tools and technologies, having 8+ years of expertise in <B>Java, J2EE, HTML, CSS, DevOps and Test Automation. </B>
 Proficient in building scalable backend systems and contributing to front-end development when required.
 
   
